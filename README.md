@@ -4,9 +4,7 @@ A private chef platform - Sprint Planning Assignment for google for startups int
 
 ## Purpose💡
 
-![](https://i.imgur.com/qHrIvd8.png)
-
-Macato allows users to hire a personal chef to come and cook for them at home instantly through its online platform.
+allow users to hire a personal chef to come and cook for them at home instantly through its online platform.
 
 ---
 
